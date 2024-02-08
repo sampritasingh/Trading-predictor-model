@@ -1,0 +1,18 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.chart {
+    margin-bottom: 20px;
+}
+
+.prediction {
+    margin-top: 20px;
+}
+
+.prediction input {
+    width: 150px;
+    margin-right: 10px;
+}
